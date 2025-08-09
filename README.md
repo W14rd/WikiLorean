@@ -1,5 +1,5 @@
 Vercel deployment: 
-  1. Open wikilorean.vercel.app
+  1. Open <a href="https://wikilorean.vercel.app">wikilorean.vercel.app</a>
   2. cd preferred_directory
   3. python -m venv venv
   4. souce venv/bin/activate
